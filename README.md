@@ -10,7 +10,7 @@ This is a Django-based REST API project for managing persons. The API supports C
   - [Endpoints](#endpoints)
   - [Request/Response Format](#requestresponse-format)
   - [Sample Usage](#sample-usage)
-- [UML Diagrams](#uml-diagrams)
+
 
 ## Prerequisites
 
